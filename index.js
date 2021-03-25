@@ -27,4 +27,4 @@ const command = args.shift().toLowerCase();
     }
 });
 
-client.login('NzU1ODU0ODk1NjQyNDQzNzc3.X2JWug.ILzfs9C26ZxAO-8CZzW8lgLParc');
+client.login('');
